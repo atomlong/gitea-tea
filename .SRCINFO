@@ -11,7 +11,7 @@ pkgbase = gitea-tea
 	arch = aarch64
 	license = MIT
 	makedepends = go-pie
-	source = https://gitea.com/gitea/tea/archive/v0.9.2.tar.gz
+	source = tea-v0.9.2.tar.gz::https://gitea.com/gitea/tea/archive/v0.9.2.tar.gz
 	sha256sums = edcd1e9af43c91c653b19ba2f58297b4815afd285657221282321ceb2930c537
 
 pkgname = gitea-tea
